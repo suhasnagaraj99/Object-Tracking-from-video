@@ -1,13 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-# ENPM673 Project-1 Part-1
-
-> By: Suhas Nagaraj
-
-> Directory ID: suhas99
-
-
-Problem 1:
+Problem :
 
 In the provided video footage, a black object is thrown against a wall. Your objective is to develop a Python script to detect
 and plot the pixel coordinates of the center point of this thrown object throughout the video. Follow the steps outlined
