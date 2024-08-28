@@ -1,7 +1,5 @@
 # Object-Tracking-from-video
 
-# ENPM661-Final-Exam
-
 ## Project Description
 This repository contains code for ENPM673 Project1 - Track an object's trajectory from a video.
 
