@@ -27,5 +27,5 @@ Follow these steps to run the code:
 ```bash
 python3 suhas99_project1.py
 ```
-2. The script computes the trajectory of the dynamic object (object of interest) in the video by using the concepts of masking and curve fitting. The computed trajectory is saved as `Trajectory.png`.
-3. The script also plots the path genereted on a frame of the video, for visualization, and saves it as `path.jpg`
+3. The script computes the trajectory of the dynamic object (object of interest) in the video by using the concepts of masking and curve fitting. The computed trajectory is saved as `Trajectory.png`.
+4. The script also plots the path genereted on a frame of the video, for visualization, and saves it as `path.jpg`
