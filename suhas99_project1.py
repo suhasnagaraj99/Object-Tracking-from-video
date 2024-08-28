@@ -1,6 +1,13 @@
 # -*- coding: utf-8 -*-
 """
-Problem :
+# ENPM673 Project-1 Part-1
+
+> By: Suhas Nagaraj
+
+> Directory ID: suhas99
+
+
+Problem 1:
 
 In the provided video footage, a black object is thrown against a wall. Your objective is to develop a Python script to detect
 and plot the pixel coordinates of the center point of this thrown object throughout the video. Follow the steps outlined
@@ -148,5 +155,5 @@ ax.imshow(img)
 
 #Plotting the parabola fitted curve on the image
 ax.plot(x_parabola, y_parabola, color='red')
-
+plt.savefig('path.jpg', bbox_inches='tight')
 """The trajectory of the object is plotted over the image extracted earlier. The red represents the trajectory"""
